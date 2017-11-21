@@ -48,6 +48,15 @@ Snake case, e.g.
 int global_function() { ... }
 ```
 
+#### Function variables
+Snake case, e.g.
+
+```c++
+int my_func(int num_a, int num_b) {
+  return num_a + num_b;
+}
+```
+
 ### Macros
 Uppercase with underscores, e.g.
 
