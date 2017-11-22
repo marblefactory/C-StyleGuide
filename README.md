@@ -1,4 +1,11 @@
-# C-StyleGuide
+# C++ StyleGuide
+
+## Pointers
+The `*` goes next to the variable name, e.g.
+
+```c++
+int *my_pointer;
+```
 
 ## Classes
 
